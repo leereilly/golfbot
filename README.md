@@ -8,4 +8,4 @@ Simply `./nicehashtagging.sh` to be dazzled and delighted:sparkles: by AI-powere
 
 This was a weekend hack to build something completely useless with [Golfbot](https://github.com/noops-challenge/hexbot), one of the [Noops Challenge bots](https://noopschallenge.com/).
 
-Works on ~~all devices and operating systems~~ my Macbook. ~~Enjoy!!!~~
+Works on ~~all devices and operating systems~~ my MacBook. ~~Enjoy!!!~~
