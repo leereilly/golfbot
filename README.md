@@ -12,6 +12,6 @@ echo "#$w"
 `say "hashtag$(tr '[:lower:]' '[:upper:]' <<< ${w:0:1})${w:1}"`
 ```
 
-This was a weekend hack to build something completely useless with [Golfbot](https://github.com/noops-challenge/hexbot), one of the [Noops Challenge bots](https://noopschallenge.com/).
+This was a weekend hack to build something completely useless with [Golfbot](https://github.com/noops-challenge/golfbot), one of the [Noops Challenge bots](https://noopschallenge.com/).
 
 Works on ~~all devices and operating systems~~ my MacBook. ~~Enjoy!!!~~
